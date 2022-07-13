@@ -1,4 +1,5 @@
 import mymodule
 
-print("My first line")
-print("My second line")
+print("First line")
+print("Second line")
+print("Third line")
